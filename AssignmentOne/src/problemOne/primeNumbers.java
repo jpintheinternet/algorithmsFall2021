@@ -1,5 +1,5 @@
 //Jean Paul Espinosa
-//CS3112 Relational Databases
+//CS3112 Algorithms
 //8/30/2021
 
 package problemOne;
